@@ -1,0 +1,55 @@
+body { 
+    background-color:#ccff99);
+    margin-left: auto;
+    margin-right: auto;
+}
+.contents{
+    margin:10% 10% 10% 10%;
+}
+.wikiPediaLogo{
+    width:40%; height:40%;   
+}
+.littleLogo{
+    width:40%; height:40%;
+}
+div{
+    color:#2d2d86;
+}
+h4{
+    color:#2d2d86;
+}
+myLink{
+    color:#196316;
+    font-style:italic;
+    font-size:smaller;
+    left:5%;
+}
+h1{
+  font-size:3em;
+}
+button{
+    width:30%;
+}
+a{
+    width:30%;
+    
+}
+#searchText{
+    width:80%;
+    margin:2% 0% 2% 0%;
+}
+
+.inputContainer{
+    margin:0%;padding:0%;
+}
+.contentsDisplay{
+  margin-left: auto;
+  margin-right: auto;
+}
+footer{
+  font-family: 'Courier', cursive; position : relative; margin-left: auto;
+margin-right: auto;
+}
+#searchContainer{
+  width:50%;
+}
